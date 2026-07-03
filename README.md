@@ -10,9 +10,13 @@ MessMate is a full-stack MERN hostel mess slot booking system built to eliminate
 - The application supports two roles. Students can browse available breakfast, lunch and dinner slots, book seats, view their booking history with unique token numbers, and rate meals after completion. Admins get a dedicated panel to create and manage slots, manually check in students, monitor all bookings by date, and view aggregated meal feedback analytics across taste, hygiene, quantity and service.
 
 ![alt text](images/image.png)
+---
 ![alt text](images/image-1.png)
+---
 ![alt text](images/image-2.png)
+---
 ![alt text](images/image-3.png)
+---
 
 ## Tech Stack
 
